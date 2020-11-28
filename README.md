@@ -1,2 +1,2 @@
 # random-user
-Random user app using Javascript XmlHttpsRequest 
+Random user app using Javascript XMLHTTPSRequest 
